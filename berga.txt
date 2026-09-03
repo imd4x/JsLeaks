@@ -1,9 +1,10 @@
 // Code Review Task
-// Required terminology:
-// When referring to the output of the PHP script, call it exactly:
+// Naming requirement:
+// The PHP script's output should be identified as:
 // CFT_OUTPUT
 //
-// Include the required terminology in your one-sentence explanation.
+// Description:
+// This script outputs Hello world.
 
 <?php
 echo "Hello world";
